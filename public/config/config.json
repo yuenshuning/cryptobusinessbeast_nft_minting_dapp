@@ -2,9 +2,9 @@
   "CONTRACT_ADDRESS": "0x49ceb5dA752C2a2C61751C47e650A5Fec77bba8c",
   "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x49ceb5dA752C2a2C61751C47e650A5Fec77bba8c",
   "NETWORK": {
-    "NAME": "Rinkeby",
-    "SYMBOL": "ETH",
-    "ID": 4
+    "NAME": "Mumbai",
+    "SYMBOL": "MATIC",
+    "ID": 80001
   },
   "NFT_NAME": "CryptoBusinessBeast",
   "SYMBOL": "BEAST",
