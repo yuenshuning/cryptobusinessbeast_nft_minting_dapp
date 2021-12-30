@@ -396,6 +396,19 @@
 		"inputs": [
 			{
 				"internalType": "address[]",
+				"name": "_newUsers",
+				"type": "address[]"
+			}
+		],
+		"name": "whitelistConcatenate",
+		"outputs": [],
+		"stateMutability": "nonpayable",
+		"type": "function"
+	},
+	{
+		"inputs": [
+			{
+				"internalType": "address[]",
 				"name": "_users",
 				"type": "address[]"
 			}

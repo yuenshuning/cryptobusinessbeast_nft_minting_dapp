@@ -1,6 +1,6 @@
 {
-  "CONTRACT_ADDRESS": "0x49ceb5dA752C2a2C61751C47e650A5Fec77bba8c",
-  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x49ceb5dA752C2a2C61751C47e650A5Fec77bba8c",
+  "CONTRACT_ADDRESS": "0x5b0F45724E9B5a60e3c7fc519FE36E06dc85B41C",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x5b0F45724E9B5a60e3c7fc519FE36E06dc85B41C",
   "NETWORK": {
     "NAME": "Mumbai",
     "SYMBOL": "MATIC",
@@ -14,6 +14,6 @@
   "GAS_LIMIT": 3000000,
   "MINT_AMOUNT": 1,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/beastpresaletestnft",
   "SHOW_BACKGROUND": true
 }
