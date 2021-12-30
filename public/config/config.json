@@ -6,9 +6,9 @@
     "SYMBOL": "ETH",
     "ID": 4
   },
-  "NFT_NAME": "Bear Presale",
-  "SYMBOL": "BEAR",
-  "MAX_SUPPLY": 6,
+  "NFT_NAME": "CryptoBusinessBeast",
+  "SYMBOL": "BEAST",
+  "MAX_SUPPLY": 3333,
   "WEI_COST": 60000000000000000,
   "DISPLAY_COST": 0.06,
   "GAS_LIMIT": 3000000,

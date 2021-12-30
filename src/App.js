@@ -310,6 +310,14 @@ function App() {
           <s.TextDescription
             style={{
               textAlign: "center",
+              color: "#fd5cf0",
+            }}
+          >
+            Presale will start on Jan 31, so stay tuned...
+          </s.TextDescription>
+          <s.TextDescription
+            style={{
+              textAlign: "center",
               color: "var(--primary-text)",
             }}
           >
